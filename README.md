@@ -10,6 +10,9 @@
 
 # macOS 版本
 12.6.1 12的最后一个小版本，升到最新的13相关驱动可能需要调整，请晓！！
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/32238306/206835282-b76a6ed0-a2da-4368-b437-c1378092d3b8.png">
+
+
 
 # opencore
 1. 版本: 0.87
